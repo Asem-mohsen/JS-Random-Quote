@@ -1,0 +1,13 @@
+.QuoteButton{
+    border: 1px solid #eee;
+    padding: 20px;
+    background-color: #2c8a7c;
+    color: white;
+    font-size: 26px;
+    &:hover{
+        transition: all 0.4s;
+        border: 1px solid #eee;
+        background-color: #1b5249;
+        color: white;
+    }
+}
